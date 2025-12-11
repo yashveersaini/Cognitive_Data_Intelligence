@@ -16,6 +16,8 @@ This system provides  intelligently process arbitrary structured data dynamicall
 -   ✔ *Future:* Email alerts for new rule proposals
 -   ✔ *Future:* AI-assisted rule inference & auto-updating
 
+<img width="1859" height="796" alt="image" src="https://github.com/user-attachments/assets/55eefc15-f50f-436a-86c8-f3437edc9489" />
+
 ------------------------------------------------------------------------
 
 # 📂 Project Structure
