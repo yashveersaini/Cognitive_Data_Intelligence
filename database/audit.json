@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-12-11T10:56:47.123129",
+    "old_rules": {
+      "version": "1.0",
+      "allowed_fields": [
+        "name",
+        "employee_no"
+      ],
+      "constraints": {
+        "name_max_length": 20,
+        "employee_no_length": 6
+      },
+      "metadata": {
+        "created_at": "2025-01-01T00:00:00Z",
+        "created_by": "init"
+      }
+    },
+    "updated_by": "admin_user",
+    "reason": "Added salary field support"
+  }
+]

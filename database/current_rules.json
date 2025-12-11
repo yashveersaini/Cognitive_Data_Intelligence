@@ -1,0 +1,15 @@
+{
+  "version": "1.2",
+  "allowed_fields": [
+    "name",
+    "employee_no",
+    "salary"
+  ],
+  "constraints": {
+    "name_max_length": 30,
+    "employee_no_length": 6
+  },
+  "metadata": {
+    "updated_by": "admin"
+  }
+}
